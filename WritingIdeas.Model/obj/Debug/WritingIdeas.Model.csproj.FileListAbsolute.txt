@@ -1,0 +1,5 @@
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Model\bin\Debug\WritingIdeas.Model.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Model\bin\Debug\WritingIdeas.Model.pdb
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Model\obj\Debug\WritingIdeas.Model.csproj.CoreCompileInputs.cache
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Model\obj\Debug\WritingIdeas.Model.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Model\obj\Debug\WritingIdeas.Model.pdb
