@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace WritingIdeas.Model
 {
-    public class Class1
+    public class Suggestion
     {
+        public int SuggestionId { get; set; }
+        public string SuggestionText { get; set; }
+
     }
 }

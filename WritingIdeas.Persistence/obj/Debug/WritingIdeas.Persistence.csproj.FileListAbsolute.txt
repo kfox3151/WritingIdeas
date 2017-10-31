@@ -1,0 +1,13 @@
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\WritingIdeas.Persistence.dll.config
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\WritingIdeas.Persistence.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\WritingIdeas.Persistence.pdb
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\EntityFramework.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\WritingIdeas.Model.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\WritingIdeas.Model.pdb
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\EntityFramework.xml
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\obj\Debug\WritingIdeas.Persistence.csprojResolveAssemblyReference.cache
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\obj\Debug\WritingIdeas.Persistence.csproj.CoreCompileInputs.cache
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\obj\Debug\WritingIdeas.Persistence.dll
+E:\GitHub\IdeasGenerator\WritingIdeas\WritingIdeas.Persistence\obj\Debug\WritingIdeas.Persistence.pdb
